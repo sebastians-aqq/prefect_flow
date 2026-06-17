@@ -7,4 +7,4 @@ def find_wifi(name: str = "Spring"):
     print(f"G5 ON!")
 
 if __name__ == "__main__":
-    hello()
+    find_wifi()
